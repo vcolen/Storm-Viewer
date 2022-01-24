@@ -23,7 +23,7 @@
 		79FF740F279D54D4006116DA /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79FF7405279D54D4006116DA /* nssl0091.jpg */; };
 		79FF7410279D54D4006116DA /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79FF7406279D54D4006116DA /* nssl0034.jpg */; };
 		79FF7411279D54D4006116DA /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79FF7407279D54D4006116DA /* nssl0051.jpg */; };
-		79FF7413279D60BD006116DA /* DetaileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79FF7412279D60BC006116DA /* DetaileViewController.swift */; };
+		79FF7413279D60BD006116DA /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79FF7412279D60BC006116DA /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,7 +45,7 @@
 		79FF7405279D54D4006116DA /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
 		79FF7406279D54D4006116DA /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 		79FF7407279D54D4006116DA /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
-		79FF7412279D60BC006116DA /* DetaileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetaileViewController.swift; sourceTree = "<group>"; };
+		79FF7412279D60BC006116DA /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +81,7 @@
 				79AA44E82796B67800F79333 /* AppDelegate.swift */,
 				79AA44EA2796B67800F79333 /* SceneDelegate.swift */,
 				79AA44EC2796B67800F79333 /* ViewController.swift */,
-				79FF7412279D60BC006116DA /* DetaileViewController.swift */,
+				79FF7412279D60BC006116DA /* DetailViewController.swift */,
 				79AA44EE2796B67800F79333 /* Main.storyboard */,
 				79AA44F12796B67A00F79333 /* Assets.xcassets */,
 				79AA44F32796B67A00F79333 /* LaunchScreen.storyboard */,
@@ -182,7 +182,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79AA44ED2796B67800F79333 /* ViewController.swift in Sources */,
-				79FF7413279D60BD006116DA /* DetaileViewController.swift in Sources */,
+				79FF7413279D60BD006116DA /* DetailViewController.swift in Sources */,
 				79AA44E92796B67800F79333 /* AppDelegate.swift in Sources */,
 				79AA44EB2796B67800F79333 /* SceneDelegate.swift in Sources */,
 			);
